@@ -1,0 +1,81 @@
+/* ADD YOUR STYLES HERE */
+.simple-table {
+	width: 100%;
+}
+
+.simple-row {
+	border-bottom: 1px solid lightgray;
+}
+
+.simple-table :last-child {
+	border-bottom: none;
+}
+
+.simple-row td {
+	padding: 10px;
+}
+
+/*start fresh*/
+.simple-table2 {
+	width:100%;
+}
+
+.simple-table2 tr {
+	border-bottom: 1px solid lightgray;
+	text-align: left;
+}
+
+.simple-table2 td {
+	padding: 10px;
+	text-align: left;
+}
+
+.simple-table2 :last-child {
+	border-bottom: none;
+}
+
+
+.stats-table {
+	border-top:1px solid lightgray;
+	border-bottom:1px solid lightgray;
+}
+
+.stats-table td{
+	padding: 20px;
+}
+
+.prom-num {
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.sm-label {
+	font-size: 12px;
+	color: lightgray;
+	text-align: center;
+
+}
+
+.barchart {
+	margin: 5px;
+	color: #fff;
+	background-color: blue;
+	text-align: right;
+	border-radius:0 3px 3px 0;
+
+	width: 100%;
+    margin: 5px;
+    /*display: inline-block;*/
+    /*position: relative;*/
+    background-color:#599EDE;
+    /*vertical-align:baseline;*/
+    /*padding-left:100px;*/
+}
+
+tr {
+	width: 100%;
+}
+
+
