@@ -58,24 +58,24 @@
 
 }
 
+/*BarChart*/
+
 .barchart {
 	margin: 5px;
-	color: #fff;
+	color: white;
 	background-color: blue;
-	text-align: right;
 	border-radius:0 3px 3px 0;
-
-	width: 100%;
     margin: 5px;
-    /*display: inline-block;*/
-    /*position: relative;*/
-    background-color:#599EDE;
-    /*vertical-align:baseline;*/
-    /*padding-left:100px;*/
+    background-color:#599EDE;   
 }
 
-tr {
+.2table td {
 	width: 100%;
+}
+
+.2table th {
+	text-align: right;
+	white-space: nowrap;
 }
 
 
